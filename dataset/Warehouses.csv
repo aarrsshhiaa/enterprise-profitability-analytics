@@ -1,0 +1,21 @@
+Warehouse_ID,Warehouse_Name,Region_ID,Capacity
+1,Warehouse 1,10,33424
+2,Warehouse 2,18,12435
+3,Warehouse 3,4,39113
+4,Warehouse 4,22,36523
+5,Warehouse 5,25,20953
+6,Warehouse 6,19,8056
+7,Warehouse 7,28,48681
+8,Warehouse 8,1,25055
+9,Warehouse 9,9,45190
+10,Warehouse 10,27,35506
+11,Warehouse 11,15,40027
+12,Warehouse 12,2,39195
+13,Warehouse 13,30,13758
+14,Warehouse 14,14,21375
+15,Warehouse 15,20,26002
+16,Warehouse 16,17,27400
+17,Warehouse 17,21,6971
+18,Warehouse 18,7,29595
+19,Warehouse 19,13,11943
+20,Warehouse 20,12,38451

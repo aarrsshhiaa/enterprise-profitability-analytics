@@ -1,0 +1,31 @@
+Region_ID,Region_Name,Country,Territory
+1,New York Region,USA,North America
+2,Chicago Region,USA,North America
+3,Dallas Region,USA,North America
+4,Toronto Region,Canada,North America
+5,Vancouver Region,Canada,North America
+6,Montreal Region,Canada,North America
+7,London Region,UK,Europe
+8,Manchester Region,UK,Europe
+9,Birmingham Region,UK,Europe
+10,Berlin Region,Germany,Europe
+11,Munich Region,Germany,Europe
+12,Hamburg Region,Germany,Europe
+13,Paris Region,France,Europe
+14,Lyon Region,France,Europe
+15,Marseille Region,France,Europe
+16,Dubai Region,UAE,Middle East
+17,Abu Dhabi Region,UAE,Middle East
+18,Sharjah Region,UAE,Middle East
+19,Sydney Region,Australia,APAC
+20,Melbourne Region,Australia,APAC
+21,Brisbane Region,Australia,APAC
+22,Tokyo Region,Japan,APAC
+23,Osaka Region,Japan,APAC
+24,Nagoya Region,Japan,APAC
+25,Mumbai Region,India,APAC
+26,Delhi Region,India,APAC
+27,Bangalore Region,India,APAC
+28,Sao Paulo Region,Brazil,South America
+29,Rio de Janeiro Region,Brazil,South America
+30,Brasilia Region,Brazil,South America

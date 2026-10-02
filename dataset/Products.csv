@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Cost,Unit_Price
+1,Tools Essential 1,Industrial,Tools,4891.22,8656.62
+2,Furniture Pro 2,Office,Furniture,64.58,105.1
+3,Fasteners Advanced 3,Industrial,Fasteners,1593.27,2200.52
+4,Tools Advanced 4,Industrial,Tools,4454.79,6321.8
+5,Laptops Ultra 5,Technology,Laptops,824.3,1305.39
+6,Monitors Heavy-Duty 6,Technology,Monitors,1823.88,2708.44
+7,Peripherals Advanced 7,Technology,Peripherals,2023.38,2617.12
+8,Home Goods Ultra 8,Consumer,Home Goods,44.83,70.83
+9,Installation Essential 9,Services,Installation,634.59,997.07
+10,Laptops Series X 10,Technology,Laptops,1962.3,2374.44
+11,Writing Supplies Essential 11,Office,Writing Supplies,139.24,198.99
+12,Writing Supplies Heavy-Duty 12,Office,Writing Supplies,38.94,63.84
+13,Safety Equipment Essential 13,Industrial,Safety Equipment,4751.12,6216.64
+14,Paper Goods Ultra 14,Office,Paper Goods,53.72,91.93
+15,Consulting Plus 15,Services,Consulting,604.57,931.36
+16,Peripherals Compact 16,Technology,Peripherals,2131.64,3078.39
+17,Tools Heavy-Duty 17,Industrial,Tools,5339.28,9568.64
+18,Peripherals Plus 18,Technology,Peripherals,1372.22,2171.82
+19,Storage & Filing Essential 19,Office,Storage & Filing,41.76,73.31
+20,Peripherals Ultra 20,Technology,Peripherals,898.62,1617.03
+21,Monitors Advanced 21,Technology,Monitors,582.66,859.7
+22,Installation Pro 22,Services,Installation,817.79,1158.82
+23,Safety Equipment Core 23,Industrial,Safety Equipment,4570.72,7865.83
+24,Apparel Elite 24,Consumer,Apparel,220.34,265.77
+25,Paper Goods Essential 25,Office,Paper Goods,153.22,226.38
+26,Servers Max 26,Technology,Servers,743.55,1179.59
+27,Installation Elite 27,Services,Installation,553.99,934.17
+28,Furniture Pro 28,Office,Furniture,245.66,395.78
+29,Home Goods Advanced 29,Consumer,Home Goods,318.63,386.2
+30,Training Max 30,Services,Training,861.16,1382.14
+31,Tools Prime 31,Industrial,Tools,5206.32,8287.11
+32,Storage & Filing Advanced 32,Office,Storage & Filing,177.88,214.44
+33,Networking Elite 33,Technology,Networking,1434.66,1979.02
+34,Networking Standard 34,Technology,Networking,1684.84,2496.74
+35,Peripherals Max 35,Technology,Peripherals,603.74,953.66
+36,Electronics Lite 36,Consumer,Electronics,337.61,542.97
+37,Installation Max 37,Services,Installation,532.35,812.45
+38,Personal Care Pro 38,Consumer,Personal Care,20.21,36.29
+39,Paper Goods Prime 39,Office,Paper Goods,49.31,79.47
+40,Laptops Plus 40,Technology,Laptops,1483.77,1927.64
+41,Laptops Advanced 41,Technology,Laptops,1489.28,2438.08
+42,Apparel Elite 42,Consumer,Apparel,192.0,255.13
+43,Networking Lite 43,Technology,Networking,1144.47,1488.81
+44,Tools Advanced 44,Industrial,Tools,3808.45,6011.12
+45,Installation Elite 45,Services,Installation,871.34,1314.64
+46,Consulting Essential 46,Services,Consulting,258.19,456.47
+47,Laptops Series X 47,Technology,Laptops,515.81,799.41
+48,Installation Max 48,Services,Installation,62.73,94.91
+49,Furniture Advanced 49,Office,Furniture,152.18,195.07
+50,Personal Care Lite 50,Consumer,Personal Care,133.75,229.64
+51,Networking Max 51,Technology,Networking,2065.46,2871.4
+52,Peripherals Series X 52,Technology,Peripherals,790.75,1146.64
+53,Home Goods Compact 53,Consumer,Home Goods,199.89,300.17
+54,Furniture Lite 54,Office,Furniture,88.45,156.9
+55,Consulting Plus 55,Services,Consulting,440.34,596.72
+56,Furniture Compact 56,Office,Furniture,92.63,149.22
+57,Writing Supplies Advanced 57,Office,Writing Supplies,153.74,249.57
+58,Tools Pro 58,Industrial,Tools,2208.76,2683.57
+59,Electronics Series X 59,Consumer,Electronics,56.01,80.4
+60,Servers Elite 60,Technology,Servers,429.84,526.33
+61,Safety Equipment Plus 61,Industrial,Safety Equipment,3170.4,4080.46
+62,Laptops Standard 62,Technology,Laptops,1000.07,1246.64
+63,Monitors Plus 63,Technology,Monitors,1930.61,2609.65
+64,Servers Series X 64,Technology,Servers,169.06,273.22
+65,Servers Max 65,Technology,Servers,641.46,826.8
+66,Writing Supplies Max 66,Office,Writing Supplies,173.93,249.94
+67,Fasteners Compact 67,Industrial,Fasteners,4110.43,6345.37
+68,Writing Supplies Elite 68,Office,Writing Supplies,21.92,28.99
+69,Laptops Prime 69,Technology,Laptops,603.32,817.54
+70,Tools Max 70,Industrial,Tools,1379.26,2115.0
+71,Personal Care Lite 71,Consumer,Personal Care,336.0,544.26
+72,Apparel Compact 72,Consumer,Apparel,322.7,479.36
+73,Fasteners Prime 73,Industrial,Fasteners,5891.92,8354.07
+74,Safety Equipment Advanced 74,Industrial,Safety Equipment,891.23,1523.86
+75,Storage & Filing Compact 75,Office,Storage & Filing,174.76,297.09
+76,Machinery Parts Prime 76,Industrial,Machinery Parts,3143.17,4283.87
+77,Personal Care Series X 77,Consumer,Personal Care,264.22,430.65
+78,Storage & Filing Prime 78,Office,Storage & Filing,55.25,86.97
+79,Personal Care Standard 79,Consumer,Personal Care,15.27,18.97
+80,Tools Lite 80,Industrial,Tools,692.79,857.57
+81,Furniture Ultra 81,Office,Furniture,127.86,153.45
+82,Installation Elite 82,Services,Installation,1175.9,1514.16
+83,Personal Care Lite 83,Consumer,Personal Care,17.08,21.71
+84,Writing Supplies Series X 84,Office,Writing Supplies,148.06,186.75
+85,Home Goods Ultra 85,Consumer,Home Goods,73.15,105.49
+86,Maintenance Prime 86,Services,Maintenance,105.38,172.1
+87,Machinery Parts Max 87,Industrial,Machinery Parts,3749.33,5529.21
+88,Consulting Prime 88,Services,Consulting,462.34,707.87
+89,Peripherals Lite 89,Technology,Peripherals,1655.6,2320.53
+90,Maintenance Plus 90,Services,Maintenance,455.02,725.58
+91,Personal Care Pro 91,Consumer,Personal Care,39.53,55.3
+92,Monitors Heavy-Duty 92,Technology,Monitors,1633.41,2263.98
+93,Peripherals Prime 93,Technology,Peripherals,1464.55,2587.78
+94,Electronics Lite 94,Consumer,Electronics,316.63,463.39
+95,Monitors Essential 95,Technology,Monitors,1556.65,2285.31
+96,Peripherals Max 96,Technology,Peripherals,107.19,133.3
+97,Laptops Advanced 97,Technology,Laptops,1837.41,3220.59
+98,Peripherals Lite 98,Technology,Peripherals,1252.53,1779.99
+99,Networking Pro 99,Technology,Networking,104.28,167.7
+100,Machinery Parts Elite 100,Industrial,Machinery Parts,4817.08,7720.18
+101,Fasteners Core 101,Industrial,Fasteners,4626.72,8011.19
+102,Paper Goods Prime 102,Office,Paper Goods,249.91,431.66
+103,Electronics Lite 103,Consumer,Electronics,171.54,221.67
+104,Monitors Heavy-Duty 104,Technology,Monitors,1730.99,2190.26
+105,Personal Care Lite 105,Consumer,Personal Care,251.06,435.21
+106,Consulting Prime 106,Services,Consulting,604.18,824.31
+107,Maintenance Lite 107,Services,Maintenance,225.21,383.28
+108,Laptops Prime 108,Technology,Laptops,1021.5,1475.52
+109,Personal Care Elite 109,Consumer,Personal Care,58.94,83.06
+110,Apparel Lite 110,Consumer,Apparel,110.1,143.88
+111,Fasteners Core 111,Industrial,Fasteners,5237.52,9341.68
+112,Consulting Max 112,Services,Consulting,319.11,395.18
+113,Peripherals Series X 113,Technology,Peripherals,1832.17,2774.15
+114,Tools Series X 114,Industrial,Tools,208.63,340.34
+115,Peripherals Standard 115,Technology,Peripherals,1115.65,1618.57
+116,Monitors Plus 116,Technology,Monitors,1650.45,2273.24
+117,Personal Care Ultra 117,Consumer,Personal Care,303.6,392.97
+118,Safety Equipment Series X 118,Industrial,Safety Equipment,165.55,218.04
+119,Electronics Ultra 119,Consumer,Electronics,279.74,494.28
+120,Furniture Elite 120,Office,Furniture,223.15,323.05
+121,Maintenance Elite 121,Services,Maintenance,201.13,245.31
+122,Storage & Filing Compact 122,Office,Storage & Filing,15.93,22.85
+123,Storage & Filing Lite 123,Office,Storage & Filing,53.45,83.73
+124,Laptops Max 124,Technology,Laptops,582.13,914.48
+125,Laptops Lite 125,Technology,Laptops,483.43,607.44
+126,Electronics Pro 126,Consumer,Electronics,208.79,283.27
+127,Storage & Filing Standard 127,Office,Storage & Filing,65.5,107.49
+128,Furniture Standard 128,Office,Furniture,181.16,324.6
+129,Furniture Pro 129,Office,Furniture,130.22,196.3
+130,Writing Supplies Plus 130,Office,Writing Supplies,115.74,144.86
+131,Fasteners Compact 131,Industrial,Fasteners,5209.97,8986.56
+132,Maintenance Standard 132,Services,Maintenance,723.02,1057.34
+133,Training Lite 133,Services,Training,332.03,544.63
+134,Maintenance Compact 134,Services,Maintenance,125.47,169.0
+135,Safety Equipment Ultra 135,Industrial,Safety Equipment,3239.46,5582.73
+136,Maintenance Pro 136,Services,Maintenance,901.89,1226.65
+137,Paper Goods Standard 137,Office,Paper Goods,169.52,274.0
+138,Servers Advanced 138,Technology,Servers,1786.32,2573.06
+139,Consulting Plus 139,Services,Consulting,938.74,1332.6
+140,Personal Care Essential 140,Consumer,Personal Care,184.24,242.18
+141,Furniture Plus 141,Office,Furniture,68.4,116.53
+142,Networking Series X 142,Technology,Networking,1828.23,2677.45
+143,Furniture Essential 143,Office,Furniture,111.6,161.81
+144,Paper Goods Series X 144,Office,Paper Goods,37.34,47.29
+145,Personal Care Compact 145,Consumer,Personal Care,313.1,402.58
+146,Paper Goods Plus 146,Office,Paper Goods,53.78,76.47
+147,Fasteners Advanced 147,Industrial,Fasteners,1011.98,1240.56
+148,Peripherals Prime 148,Technology,Peripherals,484.89,756.11
+149,Home Goods Elite 149,Consumer,Home Goods,76.72,100.68
+150,Tools Series X 150,Industrial,Tools,1671.79,2735.71
+151,Networking Pro 151,Technology,Networking,1280.26,2033.49
+152,Paper Goods Ultra 152,Office,Paper Goods,55.58,82.42
+153,Storage & Filing Lite 153,Office,Storage & Filing,216.59,286.2
+154,Fasteners Series X 154,Industrial,Fasteners,2587.21,4306.59
+155,Networking Elite 155,Technology,Networking,1082.21,1942.98
+156,Safety Equipment Pro 156,Industrial,Safety Equipment,4145.28,6742.98
+157,Monitors Plus 157,Technology,Monitors,199.4,326.13
+158,Training Plus 158,Services,Training,392.27,516.9
+159,Personal Care Essential 159,Consumer,Personal Care,241.76,348.56
+160,Tools Ultra 160,Industrial,Tools,2308.77,2885.47
+161,Paper Goods Compact 161,Office,Paper Goods,25.9,32.36
+162,Servers Core 162,Technology,Servers,1120.53,1645.05
+163,Servers Essential 163,Technology,Servers,540.92,730.35
+164,Storage & Filing Pro 164,Office,Storage & Filing,220.8,350.49
+165,Monitors Advanced 165,Technology,Monitors,332.57,585.07
+166,Machinery Parts Plus 166,Industrial,Machinery Parts,469.7,684.58
+167,Personal Care Plus 167,Consumer,Personal Care,198.21,252.87
+168,Monitors Prime 168,Technology,Monitors,505.24,668.88
+169,Personal Care Heavy-Duty 169,Consumer,Personal Care,301.58,444.69
+170,Storage & Filing Advanced 170,Office,Storage & Filing,46.95,69.38
+171,Peripherals Lite 171,Technology,Peripherals,1084.55,1656.71
+172,Servers Core 172,Technology,Servers,1673.69,2914.18
+173,Servers Compact 173,Technology,Servers,187.8,328.05
+174,Fasteners Essential 174,Industrial,Fasteners,5997.93,9503.05
+175,Networking Core 175,Technology,Networking,1706.34,2205.81
+176,Fasteners Plus 176,Industrial,Fasteners,2025.54,2633.97
+177,Electronics Lite 177,Consumer,Electronics,167.55,231.17
+178,Furniture Heavy-Duty 178,Office,Furniture,41.45,67.76
+179,Peripherals Advanced 179,Technology,Peripherals,914.61,1558.81
+180,Apparel Series X 180,Consumer,Apparel,113.53,180.81
+181,Servers Standard 181,Technology,Servers,731.84,1249.14
+182,Electronics Lite 182,Consumer,Electronics,270.89,364.02
+183,Home Goods Ultra 183,Consumer,Home Goods,281.49,452.73
+184,Home Goods Prime 184,Consumer,Home Goods,131.3,179.06
+185,Storage & Filing Pro 185,Office,Storage & Filing,31.66,50.44
+186,Training Elite 186,Services,Training,71.13,86.56
+187,Peripherals Compact 187,Technology,Peripherals,2097.44,3284.34
+188,Tools Ultra 188,Industrial,Tools,632.46,1096.84
+189,Electronics Elite 189,Consumer,Electronics,230.45,312.75
+190,Electronics Series X 190,Consumer,Electronics,36.2,62.22
+191,Safety Equipment Standard 191,Industrial,Safety Equipment,4765.65,5874.74
+192,Electronics Standard 192,Consumer,Electronics,129.43,206.22
+193,Training Advanced 193,Services,Training,408.65,593.26
+194,Storage & Filing Advanced 194,Office,Storage & Filing,9.1,11.07
+195,Fasteners Standard 195,Industrial,Fasteners,5787.66,9173.14
+196,Apparel Lite 196,Consumer,Apparel,172.03,222.94
+197,Peripherals Heavy-Duty 197,Technology,Peripherals,397.13,594.88
+198,Paper Goods Ultra 198,Office,Paper Goods,34.42,46.39
+199,Personal Care Standard 199,Consumer,Personal Care,240.08,305.97
+200,Storage & Filing Standard 200,Office,Storage & Filing,54.27,68.76
+201,Consulting Prime 201,Services,Consulting,604.84,954.31
+202,Safety Equipment Standard 202,Industrial,Safety Equipment,1173.67,1547.79
+203,Apparel Compact 203,Consumer,Apparel,137.29,190.2
+204,Monitors Standard 204,Technology,Monitors,1703.67,2250.79
+205,Training Lite 205,Services,Training,52.74,67.29
+206,Training Advanced 206,Services,Training,289.58,347.97
+207,Electronics Standard 207,Consumer,Electronics,322.87,480.7
+208,Servers Standard 208,Technology,Servers,1476.92,2453.87
+209,Fasteners Essential 209,Industrial,Fasteners,5302.21,6583.72
+210,Monitors Prime 210,Technology,Monitors,131.46,171.33
+211,Networking Max 211,Technology,Networking,1941.13,3364.86
+212,Furniture Lite 212,Office,Furniture,195.99,342.56
+213,Networking Advanced 213,Technology,Networking,346.83,616.21
+214,Maintenance Heavy-Duty 214,Services,Maintenance,542.23,855.0
+215,Electronics Core 215,Consumer,Electronics,138.74,167.79
+216,Personal Care Essential 216,Consumer,Personal Care,303.09,386.95
+217,Electronics Pro 217,Consumer,Electronics,233.65,311.2
+218,Paper Goods Plus 218,Office,Paper Goods,185.36,261.63
+219,Installation Core 219,Services,Installation,1098.48,1549.0
+220,Tools Lite 220,Industrial,Tools,1889.41,2468.81
+221,Monitors Advanced 221,Technology,Monitors,224.68,293.47
+222,Home Goods Elite 222,Consumer,Home Goods,155.23,275.19
+223,Tools Lite 223,Industrial,Tools,5637.61,7071.43
+224,Fasteners Advanced 224,Industrial,Fasteners,4058.07,4916.32
+225,Laptops Essential 225,Technology,Laptops,157.22,190.99
+226,Fasteners Max 226,Industrial,Fasteners,5904.76,9062.64
+227,Laptops Compact 227,Technology,Laptops,1224.65,1632.69
+228,Personal Care Prime 228,Consumer,Personal Care,141.65,210.8
+229,Machinery Parts Max 229,Industrial,Machinery Parts,2974.82,4399.92
+230,Electronics Ultra 230,Consumer,Electronics,190.31,331.56
+231,Safety Equipment Plus 231,Industrial,Safety Equipment,5522.53,7162.69
+232,Maintenance Lite 232,Services,Maintenance,449.09,622.93
+233,Networking Ultra 233,Technology,Networking,1483.02,2384.33
+234,Machinery Parts Elite 234,Industrial,Machinery Parts,700.54,1062.92
+235,Electronics Compact 235,Consumer,Electronics,151.3,234.56
+236,Fasteners Prime 236,Industrial,Fasteners,5574.01,8247.47
+237,Electronics Ultra 237,Consumer,Electronics,268.3,454.04
+238,Maintenance Compact 238,Services,Maintenance,1116.64,1420.89
+239,Fasteners Max 239,Industrial,Fasteners,785.58,1391.84
+240,Home Goods Max 240,Consumer,Home Goods,165.92,217.19
+241,Tools Pro 241,Industrial,Tools,3155.35,4140.33
+242,Personal Care Pro 242,Consumer,Personal Care,37.49,50.19
+243,Safety Equipment Elite 243,Industrial,Safety Equipment,3132.26,5151.67
+244,Writing Supplies Heavy-Duty 244,Office,Writing Supplies,96.77,150.87
+245,Consulting Core 245,Services,Consulting,30.59,38.6
+246,Apparel Essential 246,Consumer,Apparel,42.64,73.51
+247,Electronics Lite 247,Consumer,Electronics,173.51,311.17
+248,Fasteners Prime 248,Industrial,Fasteners,663.51,994.31
+249,Monitors Prime 249,Technology,Monitors,926.56,1124.41
+250,Paper Goods Series X 250,Office,Paper Goods,246.92,372.17
+251,Servers Standard 251,Technology,Servers,1012.17,1566.4
+252,Electronics Standard 252,Consumer,Electronics,199.99,263.52
+253,Apparel Compact 253,Consumer,Apparel,149.01,181.87
+254,Peripherals Elite 254,Technology,Peripherals,307.07,458.25
+255,Machinery Parts Plus 255,Industrial,Machinery Parts,4856.15,8370.07
+256,Installation Plus 256,Services,Installation,886.11,1195.22
+257,Servers Lite 257,Technology,Servers,1022.09,1452.92
+258,Paper Goods Pro 258,Office,Paper Goods,50.11,87.32
+259,Laptops Lite 259,Technology,Laptops,1629.57,2551.82
+260,Safety Equipment Advanced 260,Industrial,Safety Equipment,1986.07,3061.69
+261,Safety Equipment Elite 261,Industrial,Safety Equipment,2933.11,4097.48
+262,Furniture Heavy-Duty 262,Office,Furniture,66.12,117.53
+263,Personal Care Compact 263,Consumer,Personal Care,150.5,243.66
+264,Furniture Advanced 264,Office,Furniture,228.17,287.81
+265,Monitors Standard 265,Technology,Monitors,713.25,875.95
+266,Personal Care Ultra 266,Consumer,Personal Care,138.76,217.85
+267,Servers Max 267,Technology,Servers,1156.14,1574.03
+268,Personal Care Standard 268,Consumer,Personal Care,103.05,130.35
+269,Furniture Elite 269,Office,Furniture,242.28,397.08
+270,Peripherals Ultra 270,Technology,Peripherals,301.91,519.1
+271,Servers Essential 271,Technology,Servers,340.3,500.1
+272,Home Goods Essential 272,Consumer,Home Goods,221.85,306.5
+273,Laptops Heavy-Duty 273,Technology,Laptops,1371.21,1757.35
+274,Consulting Prime 274,Services,Consulting,355.82,571.67
+275,Machinery Parts Core 275,Industrial,Machinery Parts,470.4,568.4
+276,Personal Care Prime 276,Consumer,Personal Care,50.39,81.08
+277,Fasteners Elite 277,Industrial,Fasteners,1344.94,2385.52
+278,Consulting Advanced 278,Services,Consulting,491.98,705.4
+279,Laptops Elite 279,Technology,Laptops,1267.33,2073.91
+280,Writing Supplies Plus 280,Office,Writing Supplies,156.04,192.53
+281,Home Goods Advanced 281,Consumer,Home Goods,244.97,344.11
+282,Servers Series X 282,Technology,Servers,183.19,270.05
+283,Tools Max 283,Industrial,Tools,3287.35,5217.05
+284,Home Goods Max 284,Consumer,Home Goods,20.24,27.93
+285,Training Standard 285,Services,Training,788.78,1253.04
+286,Apparel Core 286,Consumer,Apparel,114.95,187.84
+287,Servers Advanced 287,Technology,Servers,1368.42,1769.45
+288,Safety Equipment Elite 288,Industrial,Safety Equipment,2869.83,4895.2
+289,Electronics Series X 289,Consumer,Electronics,286.31,461.31
+290,Furniture Core 290,Office,Furniture,27.15,48.71
+291,Personal Care Max 291,Consumer,Personal Care,189.29,315.39
+292,Consulting Advanced 292,Services,Consulting,387.89,642.65
+293,Fasteners Prime 293,Industrial,Fasteners,90.46,109.57
+294,Tools Core 294,Industrial,Tools,3235.64,4702.78
+295,Electronics Prime 295,Consumer,Electronics,274.84,380.63
+296,Storage & Filing Standard 296,Office,Storage & Filing,154.61,257.3
+297,Apparel Heavy-Duty 297,Consumer,Apparel,21.2,33.81
+298,Safety Equipment Prime 298,Industrial,Safety Equipment,3891.47,5862.53
+299,Machinery Parts Advanced 299,Industrial,Machinery Parts,4305.53,6104.3
+300,Fasteners Prime 300,Industrial,Fasteners,446.43,562.52
+301,Paper Goods Plus 301,Office,Paper Goods,98.27,136.38
+302,Monitors Lite 302,Technology,Monitors,712.93,1113.54
+303,Tools Lite 303,Industrial,Tools,4501.14,6195.84
+304,Maintenance Series X 304,Services,Maintenance,454.52,577.04
+305,Paper Goods Heavy-Duty 305,Office,Paper Goods,54.36,65.74
+306,Machinery Parts Prime 306,Industrial,Machinery Parts,3193.29,5571.91
+307,Electronics Standard 307,Consumer,Electronics,267.02,356.19
+308,Tools Ultra 308,Industrial,Tools,2363.81,4159.16
+309,Consulting Prime 309,Services,Consulting,1077.88,1308.02
+310,Consulting Plus 310,Services,Consulting,787.94,1147.24
+311,Electronics Compact 311,Consumer,Electronics,45.08,67.47
+312,Storage & Filing Core 312,Office,Storage & Filing,244.14,350.75
+313,Monitors Heavy-Duty 313,Technology,Monitors,1613.85,2031.5
+314,Furniture Compact 314,Office,Furniture,61.29,105.76
+315,Tools Ultra 315,Industrial,Tools,1868.33,3271.94
+316,Servers Lite 316,Technology,Servers,1080.54,1785.64
+317,Home Goods Ultra 317,Consumer,Home Goods,12.47,15.77
+318,Personal Care Elite 318,Consumer,Personal Care,313.75,423.9
+319,Safety Equipment Elite 319,Industrial,Safety Equipment,496.29,683.16
+320,Safety Equipment Max 320,Industrial,Safety Equipment,1039.71,1836.56
+321,Storage & Filing Series X 321,Office,Storage & Filing,135.4,227.45
+322,Maintenance Max 322,Services,Maintenance,960.4,1403.75
+323,Paper Goods Prime 323,Office,Paper Goods,234.79,352.77
+324,Servers Pro 324,Technology,Servers,324.69,545.04
+325,Consulting Advanced 325,Services,Consulting,38.29,47.38
+326,Apparel Advanced 326,Consumer,Apparel,246.2,353.41
+327,Furniture Max 327,Office,Furniture,69.79,85.91
+328,Fasteners Prime 328,Industrial,Fasteners,806.38,1409.29
+329,Tools Prime 329,Industrial,Tools,40.59,59.46
+330,Personal Care Core 330,Consumer,Personal Care,337.59,441.46
+331,Tools Prime 331,Industrial,Tools,4406.9,7877.45
+332,Paper Goods Max 332,Office,Paper Goods,87.8,151.6
+333,Tools Lite 333,Industrial,Tools,3593.1,5407.29
+334,Training Core 334,Services,Training,1070.55,1878.51
+335,Peripherals Elite 335,Technology,Peripherals,2013.11,2636.28
+336,Safety Equipment Series X 336,Industrial,Safety Equipment,3215.57,5333.89
+337,Servers Elite 337,Technology,Servers,2069.96,3444.33
+338,Laptops Ultra 338,Technology,Laptops,1686.49,2623.27
+339,Electronics Essential 339,Consumer,Electronics,193.72,278.56
+340,Electronics Max 340,Consumer,Electronics,136.53,186.85
+341,Home Goods Core 341,Consumer,Home Goods,328.16,520.5
+342,Safety Equipment Advanced 342,Industrial,Safety Equipment,1180.29,1644.94
+343,Personal Care Advanced 343,Consumer,Personal Care,192.76,246.36
+344,Fasteners Core 344,Industrial,Fasteners,809.96,1386.35
+345,Networking Core 345,Technology,Networking,363.11,609.87
+346,Furniture Plus 346,Office,Furniture,17.8,24.54
+347,Monitors Pro 347,Technology,Monitors,737.38,888.37
+348,Fasteners Standard 348,Industrial,Fasteners,4797.37,6442.1
+349,Fasteners Advanced 349,Industrial,Fasteners,1117.1,1720.1
+350,Monitors Prime 350,Technology,Monitors,1844.8,2974.81
+351,Tools Max 351,Industrial,Tools,5962.18,8599.54
+352,Fasteners Prime 352,Industrial,Fasteners,3159.65,5417.14
+353,Paper Goods Core 353,Office,Paper Goods,197.55,268.08
+354,Networking Elite 354,Technology,Networking,1496.16,2642.37
+355,Consulting Lite 355,Services,Consulting,562.29,893.15
+356,Personal Care Core 356,Consumer,Personal Care,103.28,170.37
+357,Peripherals Core 357,Technology,Peripherals,1503.41,2291.09
+358,Tools Advanced 358,Industrial,Tools,1395.33,2511.55
+359,Storage & Filing Ultra 359,Office,Storage & Filing,94.04,122.14
+360,Training Core 360,Services,Training,202.45,298.11
+361,Personal Care Prime 361,Consumer,Personal Care,204.32,277.54
+362,Safety Equipment Standard 362,Industrial,Safety Equipment,1000.48,1362.86
+363,Networking Heavy-Duty 363,Technology,Networking,1780.41,3004.06
+364,Monitors Max 364,Technology,Monitors,1088.37,1680.25
+365,Maintenance Heavy-Duty 365,Services,Maintenance,862.08,1088.13
+366,Storage & Filing Pro 366,Office,Storage & Filing,115.18,202.44
+367,Laptops Lite 367,Technology,Laptops,1721.87,2214.96
+368,Fasteners Advanced 368,Industrial,Fasteners,5312.44,8640.88
+369,Machinery Parts Max 369,Industrial,Machinery Parts,2817.72,4527.98
+370,Paper Goods Elite 370,Office,Paper Goods,94.23,159.79
+371,Writing Supplies Plus 371,Office,Writing Supplies,180.66,285.94
+372,Laptops Core 372,Technology,Laptops,2126.97,3038.74
+373,Writing Supplies Elite 373,Office,Writing Supplies,46.51,61.47
+374,Maintenance Series X 374,Services,Maintenance,900.82,1372.7
+375,Writing Supplies Compact 375,Office,Writing Supplies,3.87,4.72
+376,Electronics Plus 376,Consumer,Electronics,343.51,520.11
+377,Servers Max 377,Technology,Servers,1769.36,2306.73
+378,Home Goods Ultra 378,Consumer,Home Goods,331.42,525.95
+379,Safety Equipment Series X 379,Industrial,Safety Equipment,655.54,948.64
+380,Writing Supplies Series X 380,Office,Writing Supplies,15.63,25.88
+381,Machinery Parts Max 381,Industrial,Machinery Parts,2629.54,4086.66
+382,Furniture Core 382,Office,Furniture,17.66,26.48
+383,Home Goods Lite 383,Consumer,Home Goods,23.73,37.84
+384,Home Goods Pro 384,Consumer,Home Goods,36.64,48.84
+385,Laptops Lite 385,Technology,Laptops,210.42,369.06
+386,Paper Goods Plus 386,Office,Paper Goods,27.1,33.67
+387,Servers Max 387,Technology,Servers,857.17,1205.3
+388,Servers Core 388,Technology,Servers,1143.25,1411.22
+389,Paper Goods Series X 389,Office,Paper Goods,28.62,44.41
+390,Machinery Parts Standard 390,Industrial,Machinery Parts,3849.37,5498.49
+391,Personal Care Pro 391,Consumer,Personal Care,214.79,265.09
+392,Training Max 392,Services,Training,368.6,589.81
+393,Furniture Plus 393,Office,Furniture,77.98,138.41
+394,Monitors Compact 394,Technology,Monitors,2167.67,2740.31
+395,Safety Equipment Plus 395,Industrial,Safety Equipment,1812.0,2414.12
+396,Servers Advanced 396,Technology,Servers,2000.22,2727.45
+397,Machinery Parts Lite 397,Industrial,Machinery Parts,1237.15,1989.38
+398,Writing Supplies Prime 398,Office,Writing Supplies,47.35,67.8
+399,Monitors Compact 399,Technology,Monitors,1903.7,3146.45
+400,Furniture Prime 400,Office,Furniture,152.93,225.99
+401,Paper Goods Lite 401,Office,Paper Goods,192.12,233.25
+402,Monitors Series X 402,Technology,Monitors,1300.1,1695.79
+403,Home Goods Standard 403,Consumer,Home Goods,340.67,474.22
+404,Storage & Filing Standard 404,Office,Storage & Filing,10.16,16.06
+405,Electronics Ultra 405,Consumer,Electronics,56.81,91.38
+406,Fasteners Pro 406,Industrial,Fasteners,679.71,1076.69
+407,Servers Heavy-Duty 407,Technology,Servers,1503.17,1859.47
+408,Writing Supplies Compact 408,Office,Writing Supplies,80.54,114.49
+409,Maintenance Core 409,Services,Maintenance,948.24,1499.28
+410,Writing Supplies Pro 410,Office,Writing Supplies,33.65,53.29
+411,Networking Core 411,Technology,Networking,567.86,878.89
+412,Safety Equipment Core 412,Industrial,Safety Equipment,408.65,594.85
+413,Writing Supplies Elite 413,Office,Writing Supplies,248.33,299.33
+414,Machinery Parts Series X 414,Industrial,Machinery Parts,4309.23,6616.9
+415,Servers Essential 415,Technology,Servers,311.01,422.03
+416,Servers Core 416,Technology,Servers,1451.52,2048.8
+417,Fasteners Standard 417,Industrial,Fasteners,2646.28,4124.11
+418,Writing Supplies Elite 418,Office,Writing Supplies,229.3,340.99
+419,Storage & Filing Advanced 419,Office,Storage & Filing,36.12,52.71
+420,Maintenance Standard 420,Services,Maintenance,52.89,76.34
+421,Laptops Series X 421,Technology,Laptops,406.49,674.33
+422,Tools Core 422,Industrial,Tools,5626.01,8421.57
+423,Apparel Heavy-Duty 423,Consumer,Apparel,325.55,511.68
+424,Paper Goods Essential 424,Office,Paper Goods,19.94,25.05
+425,Electronics Core 425,Consumer,Electronics,185.53,290.56
+426,Tools Core 426,Industrial,Tools,4111.35,5074.39
+427,Paper Goods Prime 427,Office,Paper Goods,4.06,6.75
+428,Maintenance Advanced 428,Services,Maintenance,39.35,47.47
+429,Furniture Compact 429,Office,Furniture,19.4,31.95
+430,Writing Supplies Elite 430,Office,Writing Supplies,176.96,268.55
+431,Machinery Parts Essential 431,Industrial,Machinery Parts,5641.23,9162.82
+432,Fasteners Series X 432,Industrial,Fasteners,423.05,569.75
+433,Machinery Parts Prime 433,Industrial,Machinery Parts,876.24,1327.81
+434,Personal Care Prime 434,Consumer,Personal Care,166.22,283.66
+435,Home Goods Ultra 435,Consumer,Home Goods,157.7,209.36
+436,Tools Core 436,Industrial,Tools,1285.48,1562.5
+437,Safety Equipment Plus 437,Industrial,Safety Equipment,1214.1,2005.45
+438,Monitors Lite 438,Technology,Monitors,375.88,609.74
+439,Apparel Heavy-Duty 439,Consumer,Apparel,91.44,117.97
+440,Installation Ultra 440,Services,Installation,1012.91,1423.31
+441,Paper Goods Plus 441,Office,Paper Goods,116.01,168.25
+442,Monitors Advanced 442,Technology,Monitors,2025.73,2478.2
+443,Maintenance Lite 443,Services,Maintenance,1013.21,1447.5
+444,Writing Supplies Compact 444,Office,Writing Supplies,133.63,167.89
+445,Home Goods Lite 445,Consumer,Home Goods,289.38,519.74
+446,Fasteners Essential 446,Industrial,Fasteners,998.55,1786.41
+447,Machinery Parts Advanced 447,Industrial,Machinery Parts,3850.14,5928.99
+448,Furniture Core 448,Office,Furniture,235.28,350.01
+449,Personal Care Core 449,Consumer,Personal Care,218.75,389.29
+450,Tools Essential 450,Industrial,Tools,2951.77,4724.21
+451,Tools Standard 451,Industrial,Tools,3938.94,5039.46
+452,Tools Standard 452,Industrial,Tools,833.14,1105.89
+453,Maintenance Max 453,Services,Maintenance,367.49,585.52
+454,Apparel Max 454,Consumer,Apparel,92.02,162.75
+455,Laptops Compact 455,Technology,Laptops,330.79,462.92
+456,Furniture Standard 456,Office,Furniture,177.89,225.96
+457,Servers Standard 457,Technology,Servers,1424.47,2358.1
+458,Consulting Ultra 458,Services,Consulting,1049.74,1389.11
+459,Peripherals Core 459,Technology,Peripherals,1559.86,1961.98
+460,Electronics Pro 460,Consumer,Electronics,285.08,460.09
+461,Fasteners Advanced 461,Industrial,Fasteners,848.05,1295.61
+462,Apparel Elite 462,Consumer,Apparel,27.61,40.41
+463,Personal Care Heavy-Duty 463,Consumer,Personal Care,132.84,163.66
+464,Storage & Filing Lite 464,Office,Storage & Filing,35.35,42.7
+465,Safety Equipment Core 465,Industrial,Safety Equipment,4609.53,6683.68
+466,Networking Series X 466,Technology,Networking,998.7,1559.52
+467,Networking Prime 467,Technology,Networking,2069.66,3572.38
+468,Peripherals Series X 468,Technology,Peripherals,266.75,415.61
+469,Home Goods Prime 469,Consumer,Home Goods,331.42,494.63
+470,Writing Supplies Standard 470,Office,Writing Supplies,182.65,238.45
+471,Monitors Essential 471,Technology,Monitors,1783.75,2308.99
+472,Networking Advanced 472,Technology,Networking,1124.2,1761.39
+473,Laptops Advanced 473,Technology,Laptops,851.88,1203.63
+474,Servers Advanced 474,Technology,Servers,1615.88,2090.11
+475,Home Goods Ultra 475,Consumer,Home Goods,342.78,493.27
+476,Home Goods Essential 476,Consumer,Home Goods,14.01,23.0
+477,Fasteners Series X 477,Industrial,Fasteners,3588.87,4474.31
+478,Apparel Elite 478,Consumer,Apparel,90.36,115.64
+479,Monitors Advanced 479,Technology,Monitors,928.18,1439.79
+480,Fasteners Heavy-Duty 480,Industrial,Fasteners,3453.05,5284.04
+481,Tools Heavy-Duty 481,Industrial,Tools,1313.1,1697.55
+482,Apparel Compact 482,Consumer,Apparel,8.61,13.44
+483,Paper Goods Prime 483,Office,Paper Goods,20.0,31.59
+484,Writing Supplies Pro 484,Office,Writing Supplies,9.35,11.69
+485,Furniture Pro 485,Office,Furniture,14.12,23.09
+486,Writing Supplies Elite 486,Office,Writing Supplies,43.8,55.52
+487,Tools Prime 487,Industrial,Tools,2672.97,4423.88
+488,Laptops Lite 488,Technology,Laptops,1039.02,1397.49
+489,Home Goods Plus 489,Consumer,Home Goods,9.14,12.2
+490,Consulting Core 490,Services,Consulting,51.36,82.28
+491,Storage & Filing Standard 491,Office,Storage & Filing,65.49,104.61
+492,Installation Essential 492,Services,Installation,78.49,106.9
+493,Tools Advanced 493,Industrial,Tools,1243.89,2213.31
+494,Laptops Compact 494,Technology,Laptops,154.5,221.4
+495,Training Compact 495,Services,Training,122.16,176.27
+496,Storage & Filing Standard 496,Office,Storage & Filing,166.17,219.41
+497,Peripherals Compact 497,Technology,Peripherals,365.51,451.36
+498,Monitors Lite 498,Technology,Monitors,1025.72,1735.06
+499,Electronics Pro 499,Consumer,Electronics,283.64,397.3
+500,Monitors Standard 500,Technology,Monitors,203.0,303.32
+501,Apparel Lite 501,Consumer,Apparel,98.25,164.12
+502,Electronics Advanced 502,Consumer,Electronics,220.83,279.21
+503,Maintenance Compact 503,Services,Maintenance,224.69,352.96
+504,Training Series X 504,Services,Training,633.58,898.4
+505,Networking Max 505,Technology,Networking,1549.19,2635.43
+506,Machinery Parts Ultra 506,Industrial,Machinery Parts,5694.26,8162.44
+507,Personal Care Max 507,Consumer,Personal Care,341.08,604.48
+508,Servers Elite 508,Technology,Servers,425.87,606.49
+509,Maintenance Core 509,Services,Maintenance,1053.77,1284.46
+510,Apparel Essential 510,Consumer,Apparel,23.06,35.24
+511,Maintenance Heavy-Duty 511,Services,Maintenance,551.25,704.28
+512,Writing Supplies Elite 512,Office,Writing Supplies,119.04,152.79
+513,Servers Prime 513,Technology,Servers,258.7,385.24
+514,Installation Core 514,Services,Installation,392.86,539.17
+515,Furniture Plus 515,Office,Furniture,195.05,297.63
+516,Installation Elite 516,Services,Installation,272.69,435.1
+517,Laptops Standard 517,Technology,Laptops,1400.93,2437.67
+518,Writing Supplies Pro 518,Office,Writing Supplies,240.91,330.64
+519,Machinery Parts Essential 519,Industrial,Machinery Parts,330.87,498.41
+520,Consulting Core 520,Services,Consulting,37.55,62.21
+521,Fasteners Series X 521,Industrial,Fasteners,1604.48,2486.38
+522,Tools Heavy-Duty 522,Industrial,Tools,594.38,842.02
+523,Storage & Filing Heavy-Duty 523,Office,Storage & Filing,23.73,29.7
+524,Peripherals Elite 524,Technology,Peripherals,952.9,1252.11
+525,Apparel Max 525,Consumer,Apparel,229.98,281.06
+526,Electronics Standard 526,Consumer,Electronics,261.15,409.69
+527,Home Goods Lite 527,Consumer,Home Goods,42.53,63.95
+528,Networking Ultra 528,Technology,Networking,1290.67,1780.7
+529,Laptops Pro 529,Technology,Laptops,1599.82,2831.33
+530,Fasteners Prime 530,Industrial,Fasteners,3702.24,5555.82
+531,Machinery Parts Max 531,Industrial,Machinery Parts,2794.89,5013.74
+532,Fasteners Heavy-Duty 532,Industrial,Fasteners,2654.62,3771.27
+533,Servers Prime 533,Technology,Servers,1732.06,2725.24
+534,Electronics Elite 534,Consumer,Electronics,84.65,117.33
+535,Storage & Filing Essential 535,Office,Storage & Filing,48.88,85.99
+536,Electronics Max 536,Consumer,Electronics,25.63,34.7
+537,Peripherals Elite 537,Technology,Peripherals,932.99,1229.48
+538,Monitors Prime 538,Technology,Monitors,1488.77,2355.34
+539,Writing Supplies Elite 539,Office,Writing Supplies,132.51,184.9
+540,Paper Goods Plus 540,Office,Paper Goods,23.95,41.27
+541,Furniture Compact 541,Office,Furniture,248.15,315.87
+542,Networking Lite 542,Technology,Networking,867.2,1072.53
+543,Safety Equipment Standard 543,Industrial,Safety Equipment,31.89,38.79
+544,Safety Equipment Series X 544,Industrial,Safety Equipment,3640.66,5031.42
+545,Paper Goods Heavy-Duty 545,Office,Paper Goods,4.82,8.12
+546,Storage & Filing Essential 546,Office,Storage & Filing,225.68,395.69
+547,Fasteners Elite 547,Industrial,Fasteners,3610.16,6288.8
+548,Networking Compact 548,Technology,Networking,778.0,1368.33
+549,Servers Advanced 549,Technology,Servers,791.54,1091.71
+550,Storage & Filing Lite 550,Office,Storage & Filing,28.59,43.78
+551,Peripherals Prime 551,Technology,Peripherals,971.99,1370.82
+552,Apparel Standard 552,Consumer,Apparel,178.09,289.12
+553,Safety Equipment Compact 553,Industrial,Safety Equipment,923.66,1612.03
+554,Networking Plus 554,Technology,Networking,1518.1,1971.87
+555,Furniture Prime 555,Office,Furniture,81.71,121.67
+556,Servers Lite 556,Technology,Servers,224.2,329.41
+557,Maintenance Heavy-Duty 557,Services,Maintenance,311.97,544.28
+558,Furniture Pro 558,Office,Furniture,11.92,20.64
+559,Furniture Advanced 559,Office,Furniture,227.71,390.92
+560,Apparel Core 560,Consumer,Apparel,163.81,269.89
+561,Servers Heavy-Duty 561,Technology,Servers,2114.8,3701.37
+562,Peripherals Core 562,Technology,Peripherals,1382.64,2486.23
+563,Personal Care Ultra 563,Consumer,Personal Care,19.67,25.14
+564,Fasteners Standard 564,Industrial,Fasteners,1046.85,1828.94
+565,Monitors Core 565,Technology,Monitors,1207.44,1849.05
+566,Laptops Plus 566,Technology,Laptops,98.02,133.43
+567,Apparel Pro 567,Consumer,Apparel,216.16,333.22
+568,Peripherals Essential 568,Technology,Peripherals,1932.78,2894.82
+569,Tools Heavy-Duty 569,Industrial,Tools,1922.59,2931.08
+570,Laptops Core 570,Technology,Laptops,1859.64,2646.9
+571,Paper Goods Plus 571,Office,Paper Goods,231.34,367.28
+572,Laptops Max 572,Technology,Laptops,618.32,993.21
+573,Networking Advanced 573,Technology,Networking,1080.47,1336.68
+574,Fasteners Ultra 574,Industrial,Fasteners,1892.17,3145.13
+575,Safety Equipment Series X 575,Industrial,Safety Equipment,1721.76,2629.16
+576,Laptops Pro 576,Technology,Laptops,99.37,171.36
+577,Laptops Pro 577,Technology,Laptops,568.9,904.83
+578,Personal Care Elite 578,Consumer,Personal Care,278.65,500.5
+579,Furniture Elite 579,Office,Furniture,225.15,370.46
+580,Tools Heavy-Duty 580,Industrial,Tools,1771.53,2596.24
+581,Monitors Advanced 581,Technology,Monitors,155.5,208.88
+582,Safety Equipment Elite 582,Industrial,Safety Equipment,4509.32,7124.02
+583,Furniture Advanced 583,Office,Furniture,176.48,264.44
+584,Laptops Lite 584,Technology,Laptops,680.66,993.32
+585,Safety Equipment Plus 585,Industrial,Safety Equipment,4888.84,8296.54
+586,Laptops Pro 586,Technology,Laptops,1686.57,2952.1
+587,Networking Prime 587,Technology,Networking,276.27,407.28
+588,Furniture Ultra 588,Office,Furniture,123.31,150.26
+589,Writing Supplies Pro 589,Office,Writing Supplies,44.33,76.58
+590,Electronics Plus 590,Consumer,Electronics,62.96,77.2
+591,Monitors Compact 591,Technology,Monitors,874.03,1284.44
+592,Servers Series X 592,Technology,Servers,415.87,581.84
+593,Servers Advanced 593,Technology,Servers,1839.04,2605.09
+594,Apparel Standard 594,Consumer,Apparel,158.28,250.67
+595,Personal Care Core 595,Consumer,Personal Care,305.62,523.66
+596,Maintenance Lite 596,Services,Maintenance,666.18,1087.22
+597,Personal Care Plus 597,Consumer,Personal Care,212.2,310.11
+598,Home Goods Heavy-Duty 598,Consumer,Home Goods,201.56,335.13
+599,Maintenance Core 599,Services,Maintenance,237.74,377.47
+600,Furniture Compact 600,Office,Furniture,36.69,54.84
+601,Machinery Parts Heavy-Duty 601,Industrial,Machinery Parts,1805.58,2528.64
+602,Servers Prime 602,Technology,Servers,1501.79,2241.6
+603,Personal Care Series X 603,Consumer,Personal Care,303.39,507.23
+604,Networking Compact 604,Technology,Networking,406.58,655.14
+605,Personal Care Essential 605,Consumer,Personal Care,33.59,56.59
+606,Paper Goods Essential 606,Office,Paper Goods,212.12,379.87
+607,Fasteners Pro 607,Industrial,Fasteners,2161.79,3852.86
+608,Apparel Elite 608,Consumer,Apparel,92.04,161.18
+609,Machinery Parts Prime 609,Industrial,Machinery Parts,65.63,108.46
+610,Training Prime 610,Services,Training,256.97,461.5
+611,Storage & Filing Compact 611,Office,Storage & Filing,13.47,20.0
+612,Tools Advanced 612,Industrial,Tools,4160.36,5350.43
+613,Electronics Core 613,Consumer,Electronics,28.71,48.36
+614,Fasteners Pro 614,Industrial,Fasteners,4513.49,5884.88
+615,Tools Pro 615,Industrial,Tools,4121.78,6214.87
+616,Writing Supplies Series X 616,Office,Writing Supplies,11.21,19.52
+617,Personal Care Max 617,Consumer,Personal Care,347.4,580.4
+618,Paper Goods Lite 618,Office,Paper Goods,244.85,340.2
+619,Networking Max 619,Technology,Networking,2088.44,2798.69
+620,Servers Core 620,Technology,Servers,601.18,940.89
+621,Furniture Pro 621,Office,Furniture,168.05,277.92
+622,Furniture Prime 622,Office,Furniture,113.7,188.59
+623,Maintenance Max 623,Services,Maintenance,413.82,686.76
+624,Fasteners Prime 624,Industrial,Fasteners,2556.34,3072.0
+625,Consulting Standard 625,Services,Consulting,841.1,1363.09
+626,Electronics Advanced 626,Consumer,Electronics,42.39,67.59
+627,Apparel Max 627,Consumer,Apparel,158.35,228.14
+628,Networking Elite 628,Technology,Networking,2065.39,3716.0
+629,Personal Care Lite 629,Consumer,Personal Care,215.82,317.11
+630,Peripherals Lite 630,Technology,Peripherals,2024.99,2515.4
+631,Networking Compact 631,Technology,Networking,134.6,166.34
+632,Peripherals Compact 632,Technology,Peripherals,1284.07,1869.09
+633,Fasteners Series X 633,Industrial,Fasteners,4187.85,6573.14
+634,Tools Prime 634,Industrial,Tools,2040.04,3670.93
+635,Storage & Filing Pro 635,Office,Storage & Filing,33.51,48.97
+636,Apparel Elite 636,Consumer,Apparel,36.01,55.6
+637,Consulting Series X 637,Services,Consulting,657.36,1121.39
+638,Apparel Compact 638,Consumer,Apparel,71.42,116.12
+639,Fasteners Series X 639,Industrial,Fasteners,314.35,549.05
+640,Machinery Parts Standard 640,Industrial,Machinery Parts,4982.35,7890.23
+641,Paper Goods Standard 641,Office,Paper Goods,201.79,355.71
+642,Paper Goods Plus 642,Office,Paper Goods,187.53,297.17
+643,Laptops Lite 643,Technology,Laptops,1241.02,1584.57
+644,Consulting Max 644,Services,Consulting,629.1,884.59
+645,Tools Series X 645,Industrial,Tools,3303.43,4882.81
+646,Writing Supplies Heavy-Duty 646,Office,Writing Supplies,193.85,325.77
+647,Networking Ultra 647,Technology,Networking,1480.59,2040.63
+648,Paper Goods Plus 648,Office,Paper Goods,38.61,57.75
+649,Laptops Elite 649,Technology,Laptops,817.77,1091.34
+650,Electronics Compact 650,Consumer,Electronics,240.76,343.0
+651,Apparel Heavy-Duty 651,Consumer,Apparel,195.11,266.93
+652,Personal Care Max 652,Consumer,Personal Care,326.37,575.62
+653,Apparel Max 653,Consumer,Apparel,101.08,176.14
+654,Personal Care Core 654,Consumer,Personal Care,254.17,416.4
+655,Laptops Ultra 655,Technology,Laptops,1587.13,2021.28
+656,Machinery Parts Essential 656,Industrial,Machinery Parts,4537.53,8010.59
+657,Machinery Parts Plus 657,Industrial,Machinery Parts,3858.24,4992.73
+658,Training Essential 658,Services,Training,1067.91,1316.43
+659,Storage & Filing Advanced 659,Office,Storage & Filing,195.93,240.31
+660,Servers Lite 660,Technology,Servers,1809.22,2474.93
+661,Networking Series X 661,Technology,Networking,1025.26,1329.4
+662,Consulting Pro 662,Services,Consulting,102.32,133.26
+663,Monitors Core 663,Technology,Monitors,1239.41,1698.46
+664,Servers Series X 664,Technology,Servers,1096.56,1896.2
+665,Home Goods Heavy-Duty 665,Consumer,Home Goods,325.36,567.1
+666,Maintenance Plus 666,Services,Maintenance,819.65,1429.24
+667,Tools Advanced 667,Industrial,Tools,4751.69,7932.77
+668,Servers Series X 668,Technology,Servers,1560.84,2490.81
+669,Fasteners Compact 669,Industrial,Fasteners,3823.4,5939.93
+670,Laptops Elite 670,Technology,Laptops,2016.92,3623.01
+671,Networking Lite 671,Technology,Networking,222.53,308.73
+672,Tools Lite 672,Industrial,Tools,5244.45,8603.64
+673,Electronics Prime 673,Consumer,Electronics,282.36,349.84
+674,Laptops Advanced 674,Technology,Laptops,2185.5,2737.75
+675,Fasteners Heavy-Duty 675,Industrial,Fasteners,827.48,1283.46
+676,Writing Supplies Lite 676,Office,Writing Supplies,211.14,361.95
+677,Laptops Advanced 677,Technology,Laptops,597.79,1040.88
+678,Laptops Compact 678,Technology,Laptops,211.03,256.72
+679,Servers Core 679,Technology,Servers,612.79,839.88
+680,Laptops Prime 680,Technology,Laptops,395.91,678.31
+681,Storage & Filing Heavy-Duty 681,Office,Storage & Filing,73.81,112.96
+682,Monitors Standard 682,Technology,Monitors,2019.63,2624.2
+683,Storage & Filing Lite 683,Office,Storage & Filing,164.99,243.18
+684,Peripherals Core 684,Technology,Peripherals,1290.47,2159.4
+685,Servers Plus 685,Technology,Servers,1928.74,3213.84
+686,Apparel Standard 686,Consumer,Apparel,315.08,540.48
+687,Electronics Core 687,Consumer,Electronics,337.42,409.25
+688,Furniture Plus 688,Office,Furniture,219.61,304.19
+689,Maintenance Essential 689,Services,Maintenance,985.42,1361.75
+690,Servers Elite 690,Technology,Servers,148.12,200.76
+691,Electronics Advanced 691,Consumer,Electronics,197.25,288.36
+692,Paper Goods Advanced 692,Office,Paper Goods,99.89,144.71
+693,Writing Supplies Essential 693,Office,Writing Supplies,18.49,26.62
+694,Storage & Filing Essential 694,Office,Storage & Filing,25.42,37.15
+695,Networking Compact 695,Technology,Networking,988.75,1371.68
+696,Personal Care Series X 696,Consumer,Personal Care,331.22,592.45
+697,Networking Advanced 697,Technology,Networking,1043.4,1609.28
+698,Consulting Advanced 698,Services,Consulting,932.12,1377.81
+699,Peripherals Heavy-Duty 699,Technology,Peripherals,530.06,712.29
+700,Machinery Parts Prime 700,Industrial,Machinery Parts,1427.94,1932.44
+701,Paper Goods Max 701,Office,Paper Goods,211.19,349.64
+702,Installation Elite 702,Services,Installation,362.55,525.42
+703,Peripherals Elite 703,Technology,Peripherals,1456.19,2031.94
+704,Paper Goods Series X 704,Office,Paper Goods,3.61,4.73
+705,Apparel Series X 705,Consumer,Apparel,14.65,26.32
+706,Storage & Filing Prime 706,Office,Storage & Filing,120.28,170.45
+707,Safety Equipment Max 707,Industrial,Safety Equipment,3544.26,4662.83
+708,Laptops Plus 708,Technology,Laptops,246.88,405.51
+709,Maintenance Advanced 709,Services,Maintenance,949.51,1653.88
+710,Home Goods Pro 710,Consumer,Home Goods,27.55,45.57
+711,Servers Essential 711,Technology,Servers,1477.02,2102.3
+712,Personal Care Pro 712,Consumer,Personal Care,237.59,389.55
+713,Servers Prime 713,Technology,Servers,1011.12,1406.92
+714,Maintenance Elite 714,Services,Maintenance,565.53,844.1
+715,Servers Lite 715,Technology,Servers,84.9,107.09
+716,Storage & Filing Standard 716,Office,Storage & Filing,134.93,185.03
+717,Personal Care Core 717,Consumer,Personal Care,109.27,164.44
+718,Monitors Essential 718,Technology,Monitors,560.94,697.84
+719,Consulting Compact 719,Services,Consulting,147.34,241.69
+720,Electronics Standard 720,Consumer,Electronics,216.63,313.62
+721,Tools Lite 721,Industrial,Tools,5137.41,7798.94
+722,Peripherals Heavy-Duty 722,Technology,Peripherals,344.81,508.85
+723,Fasteners Ultra 723,Industrial,Fasteners,4377.95,7120.77
+724,Safety Equipment Max 724,Industrial,Safety Equipment,2888.47,4568.66
+725,Furniture Max 725,Office,Furniture,5.46,8.86
+726,Paper Goods Ultra 726,Office,Paper Goods,123.88,165.92
+727,Tools Ultra 727,Industrial,Tools,5077.07,8005.01
+728,Paper Goods Compact 728,Office,Paper Goods,239.59,362.4
+729,Personal Care Plus 729,Consumer,Personal Care,166.04,206.66
+730,Furniture Heavy-Duty 730,Office,Furniture,114.1,140.72
+731,Installation Series X 731,Services,Installation,425.53,658.97
+732,Tools Lite 732,Industrial,Tools,2280.85,3536.3
+733,Servers Essential 733,Technology,Servers,1089.26,1812.1
+734,Maintenance Essential 734,Services,Maintenance,113.91,188.97
+735,Consulting Essential 735,Services,Consulting,784.62,1156.06
+736,Maintenance Lite 736,Services,Maintenance,441.01,642.7
+737,Furniture Compact 737,Office,Furniture,166.17,238.14
+738,Furniture Standard 738,Office,Furniture,159.26,281.18
+739,Laptops Heavy-Duty 739,Technology,Laptops,1958.72,3160.61
+740,Home Goods Advanced 740,Consumer,Home Goods,102.02,143.78
+741,Electronics Advanced 741,Consumer,Electronics,327.78,531.65
+742,Furniture Prime 742,Office,Furniture,165.83,252.73
+743,Servers Series X 743,Technology,Servers,1398.02,2160.63
+744,Apparel Core 744,Consumer,Apparel,196.47,343.61
+745,Storage & Filing Heavy-Duty 745,Office,Storage & Filing,53.45,83.59
+746,Tools Ultra 746,Industrial,Tools,58.05,101.22
+747,Peripherals Standard 747,Technology,Peripherals,1262.48,1916.49
+748,Monitors Compact 748,Technology,Monitors,2019.5,3351.77
+749,Storage & Filing Advanced 749,Office,Storage & Filing,212.3,322.02
+750,Monitors Ultra 750,Technology,Monitors,243.85,375.36
+751,Servers Heavy-Duty 751,Technology,Servers,738.94,1077.47
+752,Writing Supplies Standard 752,Office,Writing Supplies,121.05,193.01
+753,Laptops Essential 753,Technology,Laptops,1115.34,1383.71
+754,Training Essential 754,Services,Training,238.43,383.87
+755,Machinery Parts Max 755,Industrial,Machinery Parts,4099.12,6202.81
+756,Monitors Advanced 756,Technology,Monitors,1107.21,1810.21
+757,Peripherals Heavy-Duty 757,Technology,Peripherals,1902.28,2294.78
+758,Furniture Prime 758,Office,Furniture,64.97,89.32
+759,Writing Supplies Core 759,Office,Writing Supplies,227.64,350.61
+760,Home Goods Elite 760,Consumer,Home Goods,289.67,428.24
+761,Apparel Advanced 761,Consumer,Apparel,147.99,187.29
+762,Fasteners Lite 762,Industrial,Fasteners,4860.52,5989.41
+763,Storage & Filing Pro 763,Office,Storage & Filing,159.77,230.42
+764,Monitors Standard 764,Technology,Monitors,1041.22,1509.52
+765,Laptops Essential 765,Technology,Laptops,1164.01,1662.11
+766,Peripherals Advanced 766,Technology,Peripherals,1243.15,2192.33
+767,Storage & Filing Lite 767,Office,Storage & Filing,59.21,78.36
+768,Monitors Elite 768,Technology,Monitors,404.88,659.69
+769,Paper Goods Plus 769,Office,Paper Goods,197.33,258.31
+770,Monitors Heavy-Duty 770,Technology,Monitors,264.02,323.92
+771,Personal Care Compact 771,Consumer,Personal Care,242.67,381.67
+772,Laptops Advanced 772,Technology,Laptops,1943.78,3316.06
+773,Apparel Core 773,Consumer,Apparel,155.57,217.5
+774,Apparel Max 774,Consumer,Apparel,272.33,415.54
+775,Home Goods Ultra 775,Consumer,Home Goods,303.17,478.46
+776,Home Goods Core 776,Consumer,Home Goods,102.68,164.42
+777,Tools Essential 777,Industrial,Tools,1513.91,2364.93
+778,Peripherals Heavy-Duty 778,Technology,Peripherals,1206.62,2097.25
+779,Furniture Series X 779,Office,Furniture,227.28,297.68
+780,Furniture Essential 780,Office,Furniture,174.58,287.16
+781,Safety Equipment Max 781,Industrial,Safety Equipment,1113.69,1969.16
+782,Paper Goods Essential 782,Office,Paper Goods,101.83,143.56
+783,Monitors Lite 783,Technology,Monitors,1308.68,2181.52
+784,Servers Lite 784,Technology,Servers,868.23,1361.72
+785,Furniture Pro 785,Office,Furniture,50.53,69.01
+786,Personal Care Max 786,Consumer,Personal Care,284.98,411.19
+787,Personal Care Series X 787,Consumer,Personal Care,242.82,419.09
+788,Paper Goods Max 788,Office,Paper Goods,197.09,293.37
+789,Training Plus 789,Services,Training,211.3,290.73
+790,Safety Equipment Max 790,Industrial,Safety Equipment,931.65,1675.01
+791,Apparel Lite 791,Consumer,Apparel,38.01,52.5
+792,Home Goods Advanced 792,Consumer,Home Goods,231.09,283.15
+793,Fasteners Prime 793,Industrial,Fasteners,5417.87,7149.29
+794,Training Lite 794,Services,Training,1027.27,1828.38
+795,Writing Supplies Standard 795,Office,Writing Supplies,67.01,92.91
+796,Personal Care Max 796,Consumer,Personal Care,121.11,207.89
+797,Peripherals Elite 797,Technology,Peripherals,1097.56,1891.3
+798,Consulting Heavy-Duty 798,Services,Consulting,42.9,52.04
+799,Electronics Ultra 799,Consumer,Electronics,237.05,388.91
+800,Servers Heavy-Duty 800,Technology,Servers,541.14,825.8
+801,Machinery Parts Series X 801,Industrial,Machinery Parts,4888.34,7698.32
+802,Servers Standard 802,Technology,Servers,1173.98,1716.66
+803,Machinery Parts Lite 803,Industrial,Machinery Parts,943.21,1202.85
+804,Apparel Plus 804,Consumer,Apparel,263.6,338.24
+805,Writing Supplies Essential 805,Office,Writing Supplies,202.68,246.38
+806,Personal Care Series X 806,Consumer,Personal Care,300.04,407.11
+807,Apparel Max 807,Consumer,Apparel,41.51,66.13
+808,Installation Core 808,Services,Installation,574.8,786.78
+809,Installation Lite 809,Services,Installation,81.07,115.75
+810,Servers Heavy-Duty 810,Technology,Servers,2111.75,3279.93
+811,Writing Supplies Ultra 811,Office,Writing Supplies,118.36,187.13
+812,Servers Core 812,Technology,Servers,1697.99,2914.56
+813,Writing Supplies Heavy-Duty 813,Office,Writing Supplies,64.76,91.72
+814,Laptops Prime 814,Technology,Laptops,525.51,860.46
+815,Fasteners Compact 815,Industrial,Fasteners,2897.31,4076.88
+816,Electronics Max 816,Consumer,Electronics,214.76,349.27
+817,Personal Care Lite 817,Consumer,Personal Care,99.05,174.22
+818,Safety Equipment Prime 818,Industrial,Safety Equipment,2100.04,2943.42
+819,Peripherals Max 819,Technology,Peripherals,960.48,1437.99
+820,Peripherals Prime 820,Technology,Peripherals,101.29,136.65
+821,Monitors Compact 821,Technology,Monitors,589.36,892.04
+822,Networking Core 822,Technology,Networking,1719.32,2597.07
+823,Electronics Core 823,Consumer,Electronics,285.48,481.68
+824,Training Max 824,Services,Training,888.94,1483.51
+825,Electronics Series X 825,Consumer,Electronics,53.12,76.95
+826,Training Pro 826,Services,Training,187.4,244.19
+827,Laptops Standard 827,Technology,Laptops,738.56,998.5
+828,Writing Supplies Core 828,Office,Writing Supplies,55.88,83.89
+829,Networking Core 829,Technology,Networking,127.96,228.02
+830,Peripherals Max 830,Technology,Peripherals,549.38,883.06
+831,Servers Core 831,Technology,Servers,1108.9,1508.73
+832,Safety Equipment Lite 832,Industrial,Safety Equipment,3653.51,6559.71
+833,Fasteners Standard 833,Industrial,Fasteners,551.18,937.75
+834,Consulting Heavy-Duty 834,Services,Consulting,463.25,678.98
+835,Networking Elite 835,Technology,Networking,878.53,1414.84
+836,Home Goods Pro 836,Consumer,Home Goods,50.89,64.58
+837,Machinery Parts Lite 837,Industrial,Machinery Parts,5687.82,10180.06
+838,Home Goods Pro 838,Consumer,Home Goods,347.82,451.01
+839,Machinery Parts Series X 839,Industrial,Machinery Parts,692.49,1185.25
+840,Peripherals Series X 840,Technology,Peripherals,659.19,979.52
+841,Writing Supplies Standard 841,Office,Writing Supplies,5.88,9.7
+842,Peripherals Essential 842,Technology,Peripherals,1753.61,2450.71
+843,Furniture Ultra 843,Office,Furniture,106.51,160.33
+844,Laptops Standard 844,Technology,Laptops,2161.06,3366.01
+845,Machinery Parts Standard 845,Industrial,Machinery Parts,2979.75,4313.76
+846,Training Advanced 846,Services,Training,100.63,148.88
+847,Servers Series X 847,Technology,Servers,1819.6,3248.81
+848,Furniture Essential 848,Office,Furniture,196.57,289.37
+849,Paper Goods Elite 849,Office,Paper Goods,52.73,68.36
+850,Laptops Standard 850,Technology,Laptops,465.15,693.95
+851,Writing Supplies Compact 851,Office,Writing Supplies,233.55,407.1
+852,Home Goods Elite 852,Consumer,Home Goods,348.44,470.95
+853,Peripherals Plus 853,Technology,Peripherals,1598.53,2211.07
+854,Monitors Max 854,Technology,Monitors,442.4,602.39
+855,Installation Core 855,Services,Installation,253.37,360.59
+856,Safety Equipment Elite 856,Industrial,Safety Equipment,4002.58,5937.7
+857,Storage & Filing Standard 857,Office,Storage & Filing,24.16,33.84
+858,Laptops Elite 858,Technology,Laptops,502.43,659.13
+859,Consulting Ultra 859,Services,Consulting,30.2,42.4
+860,Consulting Lite 860,Services,Consulting,658.38,954.04
+861,Home Goods Series X 861,Consumer,Home Goods,217.63,325.08
+862,Monitors Plus 862,Technology,Monitors,2134.24,3400.34
+863,Personal Care Ultra 863,Consumer,Personal Care,38.04,62.51
+864,Furniture Heavy-Duty 864,Office,Furniture,229.35,388.88
+865,Monitors Series X 865,Technology,Monitors,726.77,981.56
+866,Networking Compact 866,Technology,Networking,1948.61,3057.65
+867,Monitors Max 867,Technology,Monitors,1517.11,1987.93
+868,Laptops Pro 868,Technology,Laptops,779.77,1225.8
+869,Tools Elite 869,Industrial,Tools,5308.13,9296.79
+870,Electronics Plus 870,Consumer,Electronics,210.65,362.89
+871,Training Plus 871,Services,Training,791.54,1238.65
+872,Consulting Series X 872,Services,Consulting,1072.1,1464.45
+873,Electronics Ultra 873,Consumer,Electronics,161.76,207.6
+874,Laptops Essential 874,Technology,Laptops,318.71,467.72
+875,Writing Supplies Series X 875,Office,Writing Supplies,22.96,33.04
+876,Monitors Compact 876,Technology,Monitors,765.23,1228.08
+877,Safety Equipment Lite 877,Industrial,Safety Equipment,5147.3,6505.19
+878,Monitors Max 878,Technology,Monitors,2094.0,2570.7
+879,Tools Max 879,Industrial,Tools,3388.62,5541.66
+880,Networking Max 880,Technology,Networking,1289.22,2012.56
+881,Tools Ultra 881,Industrial,Tools,1494.64,2111.07
+882,Home Goods Plus 882,Consumer,Home Goods,309.62,509.85
+883,Paper Goods Series X 883,Office,Paper Goods,99.48,145.84
+884,Training Heavy-Duty 884,Services,Training,589.18,986.9
+885,Networking Heavy-Duty 885,Technology,Networking,2115.32,3601.41
+886,Servers Elite 886,Technology,Servers,1768.95,2915.11
+887,Machinery Parts Pro 887,Industrial,Machinery Parts,4586.77,8072.15
+888,Paper Goods Essential 888,Office,Paper Goods,114.47,142.31
+889,Electronics Series X 889,Consumer,Electronics,54.84,69.98
+890,Safety Equipment Core 890,Industrial,Safety Equipment,2102.35,3521.02
+891,Laptops Ultra 891,Technology,Laptops,997.88,1634.03
+892,Machinery Parts Advanced 892,Industrial,Machinery Parts,4788.26,6970.18
+893,Home Goods Compact 893,Consumer,Home Goods,270.39,410.89
+894,Monitors Advanced 894,Technology,Monitors,2030.86,2685.37
+895,Peripherals Pro 895,Technology,Peripherals,232.39,326.39
+896,Electronics Lite 896,Consumer,Electronics,157.29,196.08
+897,Personal Care Standard 897,Consumer,Personal Care,291.48,355.76
+898,Home Goods Prime 898,Consumer,Home Goods,166.29,265.28
+899,Monitors Lite 899,Technology,Monitors,570.95,888.19
+900,Personal Care Pro 900,Consumer,Personal Care,280.25,454.12
+901,Servers Series X 901,Technology,Servers,187.15,267.85
+902,Tools Standard 902,Industrial,Tools,2181.2,3671.16
+903,Networking Max 903,Technology,Networking,1535.35,2189.43
+904,Storage & Filing Advanced 904,Office,Storage & Filing,42.59,58.98
+905,Training Pro 905,Services,Training,1009.86,1574.28
+906,Monitors Compact 906,Technology,Monitors,922.28,1408.72
+907,Servers Essential 907,Technology,Servers,887.75,1450.09
+908,Tools Heavy-Duty 908,Industrial,Tools,5695.51,8400.45
+909,Apparel Prime 909,Consumer,Apparel,55.65,98.42
+910,Paper Goods Core 910,Office,Paper Goods,110.78,165.49
+911,Personal Care Essential 911,Consumer,Personal Care,181.37,219.42
+912,Consulting Ultra 912,Services,Consulting,134.26,207.67
+913,Electronics Series X 913,Consumer,Electronics,113.89,188.74
+914,Paper Goods Max 914,Office,Paper Goods,134.52,201.75
+915,Machinery Parts Standard 915,Industrial,Machinery Parts,5534.25,7661.25
+916,Writing Supplies Prime 916,Office,Writing Supplies,119.08,182.22
+917,Laptops Max 917,Technology,Laptops,1264.33,2029.53
+918,Laptops Ultra 918,Technology,Laptops,1511.42,2381.73
+919,Paper Goods Advanced 919,Office,Paper Goods,39.0,56.34
+920,Furniture Core 920,Office,Furniture,39.34,56.22
+921,Peripherals Lite 921,Technology,Peripherals,1094.04,1844.9
+922,Furniture Advanced 922,Office,Furniture,157.18,213.29
+923,Home Goods Essential 923,Consumer,Home Goods,114.52,163.86
+924,Monitors Advanced 924,Technology,Monitors,252.36,403.12
+925,Training Essential 925,Services,Training,911.41,1320.41
+926,Networking Advanced 926,Technology,Networking,1562.72,2247.41
+927,Storage & Filing Compact 927,Office,Storage & Filing,227.36,289.86
+928,Electronics Plus 928,Consumer,Electronics,278.13,419.52
+929,Laptops Standard 929,Technology,Laptops,1650.12,2959.4
+930,Fasteners Essential 930,Industrial,Fasteners,3144.4,5388.06
+931,Home Goods Plus 931,Consumer,Home Goods,328.58,548.86
+932,Tools Prime 932,Industrial,Tools,4133.96,6163.57
+933,Networking Series X 933,Technology,Networking,316.63,536.25
+934,Machinery Parts Prime 934,Industrial,Machinery Parts,4668.71,8159.24
+935,Servers Series X 935,Technology,Servers,556.94,741.18
+936,Storage & Filing Compact 936,Office,Storage & Filing,202.47,303.29
+937,Networking Prime 937,Technology,Networking,2179.14,3735.09
+938,Personal Care Compact 938,Consumer,Personal Care,49.9,84.48
+939,Electronics Elite 939,Consumer,Electronics,32.75,56.66
+940,Servers Essential 940,Technology,Servers,1735.17,3079.67
+941,Fasteners Standard 941,Industrial,Fasteners,4793.82,6578.56
+942,Home Goods Pro 942,Consumer,Home Goods,237.54,368.47
+943,Furniture Pro 943,Office,Furniture,117.99,152.87
+944,Maintenance Ultra 944,Services,Maintenance,1032.36,1564.27
+945,Monitors Elite 945,Technology,Monitors,1484.66,1846.84
+946,Servers Advanced 946,Technology,Servers,1912.05,2775.81
+947,Peripherals Compact 947,Technology,Peripherals,789.31,1193.76
+948,Maintenance Advanced 948,Services,Maintenance,422.61,683.67
+949,Safety Equipment Essential 949,Industrial,Safety Equipment,3667.2,4873.26
+950,Servers Essential 950,Technology,Servers,1537.59,2654.72
+951,Paper Goods Lite 951,Office,Paper Goods,36.04,43.84
+952,Writing Supplies Pro 952,Office,Writing Supplies,42.23,66.25
+953,Apparel Heavy-Duty 953,Consumer,Apparel,292.35,510.89
+954,Paper Goods Essential 954,Office,Paper Goods,144.85,249.05
+955,Networking Standard 955,Technology,Networking,565.51,856.49
+956,Laptops Advanced 956,Technology,Laptops,786.67,1011.55
+957,Machinery Parts Ultra 957,Industrial,Machinery Parts,4907.97,6177.1
+958,Monitors Compact 958,Technology,Monitors,529.09,860.87
+959,Consulting Series X 959,Services,Consulting,733.89,935.6
+960,Training Prime 960,Services,Training,620.07,766.29
+961,Fasteners Pro 961,Industrial,Fasteners,5733.09,8421.23
+962,Home Goods Pro 962,Consumer,Home Goods,267.94,351.26
+963,Monitors Lite 963,Technology,Monitors,1599.05,2693.18
+964,Laptops Heavy-Duty 964,Technology,Laptops,1676.27,2556.59
+965,Networking Ultra 965,Technology,Networking,2088.16,3577.17
+966,Safety Equipment Max 966,Industrial,Safety Equipment,1548.77,2220.43
+967,Laptops Plus 967,Technology,Laptops,153.23,268.64
+968,Apparel Max 968,Consumer,Apparel,105.01,187.58
+969,Personal Care Max 969,Consumer,Personal Care,319.71,489.6
+970,Training Core 970,Services,Training,844.91,1108.73
+971,Personal Care Standard 971,Consumer,Personal Care,58.78,72.42
+972,Machinery Parts Advanced 972,Industrial,Machinery Parts,2048.24,3586.39
+973,Furniture Elite 973,Office,Furniture,151.46,228.02
+974,Consulting Standard 974,Services,Consulting,212.31,280.48
+975,Monitors Compact 975,Technology,Monitors,1349.4,1922.67
+976,Networking Lite 976,Technology,Networking,236.99,416.75
+977,Machinery Parts Pro 977,Industrial,Machinery Parts,4365.16,7754.78
+978,Installation Plus 978,Services,Installation,374.53,495.77
+979,Laptops Heavy-Duty 979,Technology,Laptops,986.01,1482.16
+980,Training Heavy-Duty 980,Services,Training,36.53,61.51
+981,Writing Supplies Lite 981,Office,Writing Supplies,162.23,264.99
+982,Tools Ultra 982,Industrial,Tools,4120.43,6565.29
+983,Personal Care Ultra 983,Consumer,Personal Care,306.45,520.09
+984,Tools Compact 984,Industrial,Tools,4369.54,7379.56
+985,Training Heavy-Duty 985,Services,Training,818.16,1278.72
+986,Paper Goods Advanced 986,Office,Paper Goods,106.96,159.87
+987,Home Goods Essential 987,Consumer,Home Goods,30.05,50.82
+988,Machinery Parts Prime 988,Industrial,Machinery Parts,3872.84,6422.09
+989,Electronics Series X 989,Consumer,Electronics,12.6,16.6
+990,Apparel Max 990,Consumer,Apparel,232.02,348.69
+991,Writing Supplies Prime 991,Office,Writing Supplies,21.48,33.4
+992,Servers Heavy-Duty 992,Technology,Servers,206.0,366.55
+993,Personal Care Core 993,Consumer,Personal Care,200.68,298.36
+994,Peripherals Ultra 994,Technology,Peripherals,2030.75,2770.13
+995,Writing Supplies Series X 995,Office,Writing Supplies,181.64,238.84
+996,Fasteners Standard 996,Industrial,Fasteners,4207.13,7400.65
+997,Laptops Series X 997,Technology,Laptops,1764.51,2699.2
+998,Home Goods Elite 998,Consumer,Home Goods,163.91,221.42
+999,Furniture Standard 999,Office,Furniture,183.25,266.25
+1000,Writing Supplies Plus 1000,Office,Writing Supplies,121.12,147.5
